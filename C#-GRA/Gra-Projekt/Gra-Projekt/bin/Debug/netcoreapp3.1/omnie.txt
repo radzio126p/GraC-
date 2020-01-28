@@ -1,0 +1,8 @@
+                     Gra została napisana w ramach projektu zaliczeniowego
+                             z przedmiotu "Podstawy informatyki".
+                                      Zasady Gry:
+                     Gra "Wojny Napoleońskie" jest to strategia turowa 
+                     w której wcielamy sie w postać cesarza Francuzów
+                     Napoleona Bonaparte i próbujemy zdobyć razem z 
+                     "Wielką Armią" Moskwę. 
+                                                  Radosław Feiglewicz AGH

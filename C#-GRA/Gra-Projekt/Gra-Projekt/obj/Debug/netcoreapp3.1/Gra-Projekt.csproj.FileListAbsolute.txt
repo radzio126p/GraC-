@@ -1,0 +1,11 @@
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.exe
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.deps.json
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.runtimeconfig.json
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.runtimeconfig.dev.json
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.dll
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\bin\Debug\netcoreapp3.1\Gra-Projekt.pdb
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\obj\Debug\netcoreapp3.1\Gra-Projekt.csprojAssemblyReference.cache
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\obj\Debug\netcoreapp3.1\Gra-Projekt.AssemblyInfoInputs.cache
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\obj\Debug\netcoreapp3.1\Gra-Projekt.AssemblyInfo.cs
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\obj\Debug\netcoreapp3.1\Gra-Projekt.dll
+C:\Users\radzi\Desktop\C#-GRA\Gra-Projekt\Gra-Projekt\obj\Debug\netcoreapp3.1\Gra-Projekt.pdb
